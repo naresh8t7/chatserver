@@ -1,0 +1,11 @@
+2022/04/05 00:06:06 
+ Listening On 127.0.0.1:9001
+2022/04/05 00:06:06 starting HTTP sever
+2022/04/05 00:06:40 AddChannel: broadcasting msg in Channel: default to member: Nash
+2022/04/05 00:06:42 05/04/2022 00:06:42(User:Nash): "hi"
+2022/04/05 00:06:42 AddChannel: broadcasting msg in Channel: default to member: Nash
+2022/04/05 00:06:48 05/04/2022 00:06:48(User:Nash): "hello"
+2022/04/05 00:06:48 AddChannel: broadcasting msg in Channel: default to member: Nash
+2022/04/05 00:09:42 
+ Listening On 127.0.0.1:9001
+2022/04/05 00:09:42 starting HTTP sever
